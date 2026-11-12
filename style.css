@@ -1,0 +1,15 @@
+body { font-family: Arial, sans-serif; max-width: 700px; margin: 20px auto; padding: 0 10px; }
+.theme-light { background: #ffffff; color: #222222; }
+.theme-dark { background: #222222; color: #f0f0f0; }
+.theme-dark a { color: #9ecbff; }
+.theme-ocean { background: #d9f0ff; color: #003355; }
+#nav { margin-bottom: 15px; }
+.box { border: 1px solid #888888; padding: 10px; margin-bottom: 15px; }
+.avatar { width: 40px; height: 40px; border-radius: 50%; object-fit: cover; vertical-align: middle; }
+#letters button { width: 35px; height: 35px; margin: 2px; }
+#wordDisplay { letter-spacing: 4px; }
+table { border-collapse: collapse; margin-bottom: 10px; }
+th, td { border: 1px solid #888888; padding: 5px 10px; text-align: left; }
+#message { font-weight: bold; }
+.error { color: red; font-weight: bold; }
+.ok { color: green; font-weight: bold; }

@@ -1,0 +1,17 @@
+{
+    "Ama": {
+        "password": "newpassword",
+        "theme": "light",
+        "picture": ""
+    },
+    "Ben": {
+        "password": "ben1234",
+        "theme": "light",
+        "picture": ""
+    },
+    "Cara": {
+        "password": "cara1234",
+        "theme": "light",
+        "picture": ""
+    }
+}

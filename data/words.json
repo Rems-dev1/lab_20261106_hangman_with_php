@@ -1,0 +1,16 @@
+{
+  "easy": [
+    { "word": "kente", "hint": "A colourful woven cloth" },
+    { "word": "drum", "hint": "You hit it to make music" },
+    { "word": "cocoa", "hint": "Chocolate is made from this" },
+    { "word": "mango", "hint": "A sweet yellow tropical fruit" },
+    { "word": "river", "hint": "Water that flows to the sea" }
+  ],
+  "normal": [
+    { "word": "harmattan", "hint": "A dry dusty wind in West Africa" },
+    { "word": "plantain", "hint": "A starchy fruit like a big banana" },
+    { "word": "savanna", "hint": "A flat grassland with few trees" },
+    { "word": "festival", "hint": "A big celebration with music and food" },
+    { "word": "lighthouse", "hint": "A tall tower with a light for ships" }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "username": "Ama",
+        "level": "easy",
+        "points": 0,
+        "result": "ended"
+    },
+    {
+        "username": "Ama",
+        "level": "easy",
+        "points": 4,
+        "result": "won"
+    },
+    {
+        "username": "Ben",
+        "level": "easy",
+        "points": 1,
+        "result": "lost"
+    },
+    {
+        "username": "Ben",
+        "level": "easy",
+        "points": 3,
+        "result": "won"
+    },
+    {
+        "username": "Ben",
+        "level": "normal",
+        "points": 5,
+        "result": "lost"
+    },
+    {
+        "username": "Ben",
+        "level": "normal",
+        "points": 2,
+        "result": "lost"
+    },
+    {
+        "username": "Ama",
+        "level": "normal",
+        "points": 6,
+        "result": "lost"
+    },
+    {
+        "username": "Ama",
+        "level": "normal",
+        "points": 2,
+        "result": "lost"
+    },
+    {
+        "username": "Ben",
+        "level": "normal",
+        "points": 2,
+        "result": "lost"
+    }
+]
